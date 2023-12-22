@@ -1,6 +1,6 @@
 # link preview :
 
-https://karimashour.github.io/BILLO/
+https://karimashour.github.io/Vast-Template/
 
 <img src="image.png"/>
 
@@ -8,10 +8,9 @@ https://karimashour.github.io/BILLO/
 - html
 - css
 - javascript
-- bootstrap v5
-- aos animation library
-- box icons
-- line icons
+- media query
+- ionicons library
+
 
 # features
-- fully responsive template design by bootstrap framework
+- fully responsive landing page 
